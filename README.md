@@ -29,5 +29,5 @@ From there, to launch the simulator:
 # Acknowledgements
 
 Many thanks to:
-- dorowu for creating the dorowu/ubuntu-desktop-lxde-vnc ![image](https://hub.docker.com/r/dorowu/ubuntu-desktop-lxde-vnc/)
-- madhurbehl for creating the base repo for ![F1TENTH Docker](https://hub.docker.com/r/madhurbehl/f1tenth)
+- dorowu for creating the dorowu/ubuntu-desktop-lxde-vnc [image](https://hub.docker.com/r/dorowu/ubuntu-desktop-lxde-vnc/)
+- madhurbehl for creating the base repo for [F1TENTH Docker](https://hub.docker.com/r/madhurbehl/f1tenth)
