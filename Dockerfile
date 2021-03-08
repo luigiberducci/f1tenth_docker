@@ -1,6 +1,5 @@
 # Author:		Luigi Berducci
 # Purpose:		F1TENTH class
-# Acknowledgement:	dorowu for proving the base ubuntu image with vnc interface
 #
 # To build:		docker build -t f1tenth .
 # To run: 		docker run -it --rm -p 6080:80  f1tenth

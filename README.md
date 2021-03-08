@@ -12,15 +12,18 @@ Build the Docker image:
 docker build -t f1tenth .
 ```
 
-Run the docker image and open port `6080`
+Access via the HTML VNC interface:
 ```
 docker run -it --rm -p 6080:80 
 ```
+Then, browse to http://127.0.0.1:6080/
 
-Access to the VNC interface:
+
+Access using any VNC Viewer (e.g. Remmina):
 ```
-Browse to http://127.0.0.1:6080/
+docker run -it --rm -p 6080:80 -p 5900:5900
 ```
+Then, use the VNC Viewer to access 127.0.0.1:5900
 
 From there, to launch the simulator:
 - Open a terminal window
